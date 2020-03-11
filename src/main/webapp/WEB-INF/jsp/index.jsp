@@ -74,17 +74,20 @@
                         <a href="http://localhost:8080/finance/index" class="waves-effect active-menu waves-dark"><i class="fa fa-dashboard"></i>主页</a>
                     </li>
                     <li>
-                        <a href="http://localhost:8080/finance/manage" class="waves-effect waves-dark"><i class="fa fa-desktop"></i>报表管理</a>
+                        <a href="http://localhost:8080/finance/manage" class="waves-effect waves-dark"><i class="fa fa-desktop"></i>系统管理</a>
                     </li>
 					<li>
-                        <a href="http://localhost:8080/finance/chart" class="waves-effect waves-dark"><i class="fa fa-bar-chart-o"></i>报表查询</a>
+                        <a href="http://localhost:8080/finance/chart" class="waves-effect waves-dark"><i class="fa fa-bar-chart-o"></i>财务核算</a>
                     </li>
                     
                     <li>
-                        <a href="http://localhost:8080/finance/table" class="waves-effect waves-dark"><i class="fa fa-table"></i>报表修改</a>
+                        <a href="http://localhost:8080/finance/table" class="waves-effect waves-dark"><i class="fa fa-table"></i>综合查询</a>
                     </li>
                     <li>
-                        <a href="http://localhost:8080/finance/empty" class="waves-effect waves-dark"><i class="fa fa-fw fa-file"></i>导出报表</a>
+                        <a href="http://localhost:8080/finance/empty" class="waves-effect waves-dark"><i class="fa fa-fw fa-file"></i>年末财务核算</a>
+                    </li>
+                    <li>
+                        <a href="http://localhost:8080/finance/empty" class="waves-effect waves-dark"><i class="fa fa-fw fa-file"></i>财务指标分析</a>
                     </li>
                 </ul>
 
